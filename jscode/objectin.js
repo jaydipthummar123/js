@@ -9,12 +9,12 @@ console.log(course)
 
 // ++++++++++++++++++JSOn++++++++++++++
 
-// object api
-{
-    "name":"jaydipthummar",
-    "age":21,
-    "qulification":"BCA"
-}
+// // object api
+// {
+//     "name":"jaydipthummar",
+//     "age":21,
+//     "qulification":"BCA"
+// }
 
 
 // arrry api 
